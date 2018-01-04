@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_test_butter_knife">ทดสอบ Butter Knife</string>
+    <string name="local_upper">TH</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="hello_world">Hello to the World of Android Development</string>
+    <string name="call_api_error_message">ไม่สามารถใช้งานระบบได้ในขณะนี้</string>
+</resources>
